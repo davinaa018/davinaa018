@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a undergradute student passionate for Full Stack Development!<br><br>Some of the technologies I work with include: Typescript, React, Express, TypeORM, Prisma
+I'm a undergradute student at the University of Texas at El Paso passionate for Full Stack Development!<br><br>Some of the technologies I work with include: Typescript, React, Express, TypeORM, Prisma
 
 
 ## 🌐 Socials:
